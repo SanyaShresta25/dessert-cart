@@ -1,4 +1,4 @@
-# 🛒 useReducer Cart App
+# 🎂 Dessert Cart App
 
 This project demonstrates how to use `useReducer` in a React + TypeScript + Vite application to manage a simple cart system. You can add items to the cart, remove individual items, clear all items, and view a summary of your order.
 
