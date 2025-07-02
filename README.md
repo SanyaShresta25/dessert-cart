@@ -25,11 +25,6 @@ This project demonstrates how to use `useReducer` in a React + TypeScript + Vite
 
 ## 📸 Screenshots
 
-| Desktop View                                             | Cart View                                          |
-| -------------------------------------------------------- | -------------------------------------------------- |
-| ![Desktop](./screenshots/desktop.png#gh-light-mode-only) | ![Cart](./screenshots/cart.png#gh-light-mode-only) |
-
-> 📐 Make sure your screenshot images are around **400px width** for clear rendering.
 
 ---
 
