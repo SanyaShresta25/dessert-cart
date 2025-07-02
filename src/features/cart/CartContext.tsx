@@ -1,4 +1,4 @@
-// CartContext.tsx
+
 import { createContext,  useReducer, type ReactNode } from 'react';
 import { cartReducer } from './reducer';
 import type { Product, CartContextType } from './types';

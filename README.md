@@ -25,6 +25,10 @@ This project demonstrates how to use `useReducer` in a React + TypeScript + Vite
 
 ## 📸 Screenshots
 
+<img src="public/assets/images/des.png" alt="Dessert Cart Screenshot 1" width="400" />
+<br />
+<img src="public/assets/images/des2.png" alt="Dessert Cart Screenshot 2" width="400" />
+
 
 ---
 
@@ -52,7 +56,7 @@ npm run dev
 ```
 /src
   /components
-  /context
+  /features
   /types
   App.tsx
   main.tsx
